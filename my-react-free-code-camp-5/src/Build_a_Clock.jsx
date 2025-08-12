@@ -137,7 +137,10 @@ function Build_a_Clock() {
                 <button onClick={stop} className="start-button">Stop</button>
                 <button onClick={reset} className="start-button">Reset</button>
             </div>
+                    <p>Designed and Coded by</p>
+                    <h4>NAIMI Haithem khaled</h4>
         </div>
+
     );
 }
 
